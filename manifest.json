@@ -1,8 +1,8 @@
 {
     "name": "Bar Begone",
     "description": "Remove the progress bar and timestamp on YouTube videos.",
-    "version": "1.0.0",
-    "manifest_version": 2,
+    "version": "1.0.1",
+    "manifest_version": 3,
     "content_scripts": [
         {
             "matches": [
